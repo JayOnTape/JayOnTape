@@ -4,12 +4,6 @@
 # Hello. 👋
 I am Jay. I am a 17 year old Unreal Engine 4/5 Game Developer that is terrible at getting to sleep and awful at C++. You can find me on many social media platforms, so many that I have a [list of them](https://linktr.ee/JayOnTape) right here.
 
-**👨‍💻 Projects I have contributed to:**
-+ [METEOR ☄️](https://discord.com/invite/hVUjmMCWYh)
-+ RENEGADE 🪖 - *Currently in Development*
-+ [FRIDAY NIGHT WATERS 🦑](https://x.com/RedMistTorture)
-+ [DEAD LEGACY 🎤](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
 **🖥️ PC Specifications:**
 
 + **CPU**: AMD Ryzen 7 5800X
