@@ -6,8 +6,8 @@ I am Jay. I am a 17 year old Unreal Engine 4/5 Game Developer that is terrible a
 
 **👨‍💻 Projects I have contributed to:**
 + [METEOR ☄️](https://discord.com/invite/hVUjmMCWYh)
++ RENEGADE 🪖 - *Currently in Development*
 + [FRIDAY NIGHT WATERS 🦑](https://x.com/RedMistTorture)
-+ [STEAMBOAT SADNESS ⛵](https://x.com/SteamboatSadFNF)
 + [DEAD LEGACY 🎤](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 **🖥️ PC Specifications:**
