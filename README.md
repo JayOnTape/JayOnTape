@@ -1,7 +1,7 @@
 # Hello. 👋
 17-Year-Old Unreal Engine 4/5 Game Developer, mainly use Blueprints, but I am planning to learn C++ in the future.
 
-I have contributed a couple of projects like [Meteor](https://discord.com/invite/hVUjmMCWYh)
+I have contributed a couple of projects like [Meteor ☄️](https://discord.com/invite/hVUjmMCWYh).
 
 **🖥️ PC Specifications:**
 
