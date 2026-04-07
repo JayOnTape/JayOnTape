@@ -1,8 +1,5 @@
-> [!WARNING]
-> This user is british. Please refrain from making any jokes about their dental hygiene. We have confirmed that their teeth are perfect through teeth verification.
-
 # Hello. 👋
-I am Jay. I am a 17 year old Unreal Engine 4/5 Game Developer that is terrible at getting to sleep and awful at C++. You can find me on many social media platforms, so many that I have a [list of them](https://linktr.ee/JayOnTape) right here.
+17-Year-Old Unreal Engine 4/5 Game Developer, mainly use Blueprints, but I am planning to learn C++ in the future.
 
 **🖥️ PC Specifications:**
 
