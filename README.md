@@ -1,7 +1,7 @@
 # Hello. 👋
 17-Year-Old Unreal Engine 4/5 Game Developer, mainly use Blueprints, but I am planning to learn C++ in the future.
 
-I have contributed to a couple of projects like [Meteor ☄️](https://discord.com/invite/hVUjmMCWYh) and quite a couple of FNF mods.
+I am the owner of [Renegade ⛏](https://discord.gg/FKG2BJBc9e) and I have contributed to a couple of projects like [Meteor ☄️](https://discord.com/invite/hVUjmMCWYh) and a few Friday Night Funkin' Mods.
 
 **🖥️ PC Specifications:**
 
