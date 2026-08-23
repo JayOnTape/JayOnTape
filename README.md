@@ -7,7 +7,7 @@ I am an **Unreal Engine Developer** specializing in visual scripting via Bluepri
 ### 🛠️ Core Projects & Contributions
 
 * **Developer** @ [Renegade](https://discord.gg/FKG2BJBc9e) - Developer and Owner of Renegade, a recreation of Fortnite Battle Royale (Chapter 1: Season 5) built in UE5.
-* **Contributor** @ [Meteor](https://discord.com/invite/hVUjmMCWYh) - Developer for Meteor, a Fortnite fangame inspired by Chapter 1: Season 3.
+* **Contributor** @ [Meteor](https://discord.gg/hVUjmMCWYh) - Developer for Meteor, a Fortnite fangame inspired by Chapter 1: Season 3.
 * **Modder** - Contributed to various *Friday Night Funkin'* mods.
 
 ---
