@@ -1,10 +1,10 @@
 # Hi there, I'm JayOnTape 👋
 
-I am an **Unreal Engine Developer** specializing in visual scripting via Blueprints, with plans to transition into C++ development. I love recreating games and making my own projects along with and contributing to others.
+I am an **Unreal Engine Developer** specializing in blueprints, with plans to transition into C++ development. I love recreating games and making my own projects along with contributing to others.
 
 ---
 
-### 🛠️ Core Projects & Contributions
+### 🛠️ Projects & Contributions
 
 * **Developer and Owner** @ [Renegade](https://discord.gg/FKG2BJBc9e) - Developer and Owner of Renegade, a recreation of Fortnite Battle Royale (Chapter 1: Season 5) built in Unreal Engine 5.5.
 * **Developer** @ [Meteor](https://discord.gg/hVUjmMCWYh) - Developer for Meteor, a Fortnite Fangame based on Chapter 1: Season 3 built in Unreal Engine 5.4.
@@ -22,6 +22,7 @@ I am an **Unreal Engine Developer** specializing in visual scripting via Bluepri
 
 <details>
 <summary>🖥️ View My PC Specifications</summary>
+
 
 | Component | Spec |
 | :--- | :--- |
